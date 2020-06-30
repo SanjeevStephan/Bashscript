@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+92:21:81:95:FC:06, 2018-07-19 13:59:34, 2018-07-19 14:03:49,  6,  65, WPA2, CCMP,PSK, -74,       48,      211,   0.  0.  0.  0,   8, Abhishek, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+98:0C:A5:FA:F5:44, 2018-07-19 14:00:00, 2018-07-19 14:02:04, -83,       11, 92:21:81:95:FC:06,
+78:02:F8:93:3E:A9, 2018-07-19 14:01:16, 2018-07-19 14:03:48, -90,      196, 92:21:81:95:FC:06,Abhishek
+

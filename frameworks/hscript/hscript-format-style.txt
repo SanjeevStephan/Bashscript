@@ -1,0 +1,38 @@
+                     _     ____            _       _
+                    | |__ / ___|  ___ _ __(_)_ __ | |_
+                    | '_ \\___ \ / __| '__| | '_ \| __|
+                    | | | |___) | (__| |  | | |_) | |_
+                    |_| |_|____/ \___|_|  |_| .__/ \__|
+                                            |_|
+           +--**--=[    HelperScript Framework   ]==--**--+
+        +---**---==[    CodeBy :Stephan          ]==--**--+
+        +---**---==[    h)  home       q) quit   ]==--**--+
+        +---**---==[    p)  previous   n) next   ]==--**--+
+        +---**---==[    l)  Location   r) Refresh]==--**--+
+        +---**---==[    s)  Sourcecode m) Main   ]==--**--+
+        +---**---==[    i)  Index      a) alias  ]==--**--+
+        +---**---==[        Total Page -  10     ]==--**--+
+        Script   Essential Softwares  What Does it actually do
+         --------       Page-I      ------------------
+       1) android(a)                Launch Android Studio IDE------------|-----I
+       2) virtualbox(vb)            Launch Virtual Box                   | E
+       3) pycharm(p)                Launch PyCharm IDE                   | S
+       4) playonlinux               run exe files on linux               | S
+       5)                                                                | E
+       6)                                                                | N
+       7)                                                                | T
+       8)                                                                | I
+       9)                                                                | A
+      10)                                                                | L
+      11)                                                                | S
+      12)                                                                |
+      13)                                                                |
+      14)                                                                |
+      15)                                                          ------|
+         ---------------------------------------------------------
+                    | Developed By Sanjeev Stephan Murmu  |
+                      -------------------------------------
+       Enter the number corresponding to the Script | Type 'help' for help
+       ----------------------------------------------------------------------
+      ┌─[hScript]──[~]─[home]:
+      └─────►                                                                                                                                                  

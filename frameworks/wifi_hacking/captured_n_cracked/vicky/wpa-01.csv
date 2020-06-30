@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+BC:D1:1F:E9:0C:1F, 2018-07-17 21:15:25, 2018-07-17 21:17:10,  6,  65, WPA2, CCMP,PSK,   0,      352,       11,   0.  0.  0.  0,   5, vicky, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+10:68:3F:EA:A8:C3, 2018-07-17 21:16:19, 2018-07-17 21:17:06, -84,       68, BC:D1:1F:E9:0C:1F,vicky
+
