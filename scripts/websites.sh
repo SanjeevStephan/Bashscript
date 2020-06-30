@@ -1,0 +1,15 @@
+#!/bin/bash
+figlet -f Roman "Website"
+site1="1. Patorjk.com"
+site2="2. webestools.com"
+site3="3. askapache.com"
+link1="patorjk.com/software/taag/"
+link2="www.webestools.com › Tools › Generatos"
+link3="https://www.askapache.com/online-tools/figlet-ascii/"
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo "       Site                  URLs"
+echo "      $site1         $link1"
+echo "      $site2      $link2"
+echo "      $site3       $link3"
+read -p "Go to : $(tput setaf 46)" input
+echo "Redirecting to $(tput setaf 40)$input"
